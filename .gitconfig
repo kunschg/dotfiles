@@ -1,0 +1,9 @@
+[core]
+	editor = code --wait
+
+[user]
+	name = kunschg
+	email = kunschguillaume@gmail.com
+
+[init]
+	defaultBranch = main

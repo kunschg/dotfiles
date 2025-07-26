@@ -19,5 +19,6 @@ brew install gh
 brew install ripgrep
 brew install git
 brew install git-lfs
+brew install bash-completion
 
 exit 0
