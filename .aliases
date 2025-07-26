@@ -1,1 +1,7 @@
 alias set_up_env='uv sync && source .venv/bin/activate'
+alias gc='git commit'
+alias gca='git commit -a'
+alias gco='git checkout'
+alias gb='git branch'
+alias gs='git status'
+alias gac='git add -A && git commit -m'
