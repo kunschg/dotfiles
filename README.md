@@ -1,8 +1,7 @@
 # dotfiles
 
-To run and install, do:
-git clone <https://github.com/kunschg/dotfiles.git>
-
-cd dotfiles
-install
-bootstrap.sh
+To set-up current machine just do do:
+`git clone <https://github.com/kunschg/dotfiles.git>`
+`cd dotfiles`
+`install`
+`bootstrap.sh`
