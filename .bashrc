@@ -1,3 +1,4 @@
+export PATH="/home/linuxbrew/.linuxbrew/bin:$PATH"
 export PATH="/opt/homebrew/bin:$PATH"
 
 . "$HOME/.local/bin/env"
