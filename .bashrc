@@ -1,7 +1,9 @@
 export PATH="/opt/homebrew/bin:$PATH"
 
+. "$HOME/.local/bin/env"
+
 eval "$(starship init bash)"
-source ~/.local/share/blesh/ble.sh # if slow run complete -r -> https://github.com/akinomyoga/ble.sh/issues/58
+source ~/.local/share/blesh/ble.sh
 
 # Enable bash completion
 if [[ -r "/opt/homebrew/etc/profile.d/bash_completion.sh" ]]; then
