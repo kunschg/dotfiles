@@ -14,6 +14,9 @@ then
 
 fi
 
+export PATH="/home/linuxbrew/.linuxbrew/bin:$PATH"
+export PATH="/opt/homebrew/bin:$PATH"
+
 brew install grep
 brew install gh
 brew install ripgrep
