@@ -23,5 +23,6 @@ brew install ripgrep
 brew install git
 brew install git-lfs
 brew install bash-completion
+brew install rsync
 
 exit 0
